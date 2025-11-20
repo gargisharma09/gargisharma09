@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @gargisharma09
-- 👀 I’m interested in ...Machine Learning , Web development 
-- 🌱 I’m currently learning ...Python , C++, HTML, CSS , Java Script
+- 👀 I’m interested in ...Machine Learning , Frontend Development, Software Development ,
+- 🌱 I’m currently learning ...Python , C++, HTML, CSS , Java Script,Nlp,Facial Recognition Systems,
 - 💞️ I’m looking to collaborate on ...Webdevelopment
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...Email:sharma931g@gmail.com
+- 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...
 
 <!---
