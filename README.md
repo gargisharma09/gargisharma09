@@ -44,7 +44,16 @@ Philosophy: Learn → Build → Refine ✨
 ---
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gargisharma09&show_icons=true&theme=radical&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargisharma09&layout=compact&theme=radical&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=gargisharma09&theme=radical&hide_border=true"/> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gargisharma09&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargisharma09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
